@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5798ee365d401464387a2e6caea86f15, type: 3}
+  m_Name: Chest
+  m_EditorClassIdentifier: 
+  <BoundingBox>k__BackingField: {x: 1.22, y: 1.24, z: 0.76}
+  <Prefab>k__BackingField: {fileID: 5052577411213077395, guid: 15fb80a7f255c6146a27b9eac31dbcda,
+    type: 3}
+  <Value>k__BackingField: 50
+  <SinkIndicatorInfo>k__BackingField: {fileID: 11400000, guid: f8b8cfcc14e07e84bbf441329eaed2cf,
+    type: 2}
+  CargoSprite: {fileID: 21300000, guid: 93bafe12b437e984c9482bce4728e0c9, type: 3}

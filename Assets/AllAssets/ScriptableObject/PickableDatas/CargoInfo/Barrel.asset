@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5798ee365d401464387a2e6caea86f15, type: 3}
+  m_Name: Barrel
+  m_EditorClassIdentifier: 
+  <BoundingBox>k__BackingField: {x: 0.8877625, y: 0.8742757, z: 1.030685}
+  <Prefab>k__BackingField: {fileID: 1803576883346566935, guid: e495bb57d9bd7624e889c16e73a149a9,
+    type: 3}
+  <Value>k__BackingField: 40
+  <SinkIndicatorInfo>k__BackingField: {fileID: 11400000, guid: f8b8cfcc14e07e84bbf441329eaed2cf,
+    type: 2}
+  CargoSprite: {fileID: 21300000, guid: 4fc008ec32ca46448abf4f83bd4a06f3, type: 3}

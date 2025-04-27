@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 036b022105937d240953cf8f8dca7491, type: 3}
+  m_Name: EnemyPoolerInfo
+  m_EditorClassIdentifier: 
+  _this: {fileID: 11400000}
+  _triggerOnValidate: 0
+  PooledObjectInfos:
+  - {fileID: 11400000, guid: 011a0fee9f541f647bbd517d377625e0, type: 2}
+  - {fileID: 11400000, guid: 6723611eec37c564fb18c5bf06198a26, type: 2}
+  - {fileID: 11400000, guid: 39864590d54103441aaf541054955efc, type: 2}

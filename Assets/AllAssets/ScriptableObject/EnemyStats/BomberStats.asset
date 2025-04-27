@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f712b428cd9830b4eb010450695c80f7, type: 3}
+  m_Name: BomberStats
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 5637198366215604706, guid: d023d07271931bd41b44d87a437e0d53,
+    type: 3}
+  deathDuration: 5
+  dropItemNum: 3
+  DroppableCargo:
+  - {fileID: 11400000, guid: c829d419f24e3c74dae43ca46cd7a017, type: 2}
+  - {fileID: 11400000, guid: 773c66abb05fbe34dbeac3ba0043581d, type: 2}
+  thing: stuff here

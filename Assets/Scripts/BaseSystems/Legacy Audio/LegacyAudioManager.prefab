@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &995924973914415305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 995924973914415311}
+  - component: {fileID: 995924973914415304}
+  m_Layer: 0
+  m_Name: LegacyAudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &995924973914415311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 995924973914415305}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &995924973914415304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 995924973914415305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfcbaaeb7267070449c73b0bd5460937, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainMixer: {fileID: 24100000, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+  sounds:
+  - source: {fileID: 0}
+    name: Footstep
+    clip: {fileID: 8300000, guid: be08b3ffc69d88e41a6660cbaf4d7859, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Fuel Spawned
+    clip: {fileID: 8300000, guid: ae61313426f6602419844827ac364f65, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Item Pickup
+    clip: {fileID: 8300000, guid: 2ed89fd0e0642044899b4866ecaa8e52, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Grapple Gun Mode
+    clip: {fileID: 8300000, guid: 32879ecee991a4f459d4789cbdae877f, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Cannon Gun Mode
+    clip: {fileID: 8300000, guid: dc61d82ed0fcbbc4dbead15de69d5b32, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Cannon Fire
+    clip: {fileID: 8300000, guid: 88ef5fcb498594a438108c89f19ade90, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Cannon Impact
+    clip: {fileID: 8300000, guid: 88ef5fcb498594a438108c89f19ade90, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Boat Impact
+    clip: {fileID: 0}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Time's Up
+    clip: {fileID: 8300000, guid: aad97f27c6d44c44886b61a76e61ae39, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: 
+    clip: {fileID: 0}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  oceanSFX:
+  - source: {fileID: 0}
+    name: Sea 1
+    clip: {fileID: 8300000, guid: 4264dbb0b616ca64fab6652f3afb991d, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Sea 2
+    clip: {fileID: 8300000, guid: f18003e38f96864469f859147ac1e026, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Sea 3
+    clip: {fileID: 8300000, guid: dce4b2d60e404fa45a56552de4cba79c, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Sea 4
+    clip: {fileID: 8300000, guid: c1de71d3c1af1494a95b82d85d2a26f3, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Sea 5
+    clip: {fileID: 8300000, guid: 81e0d66b000a55045b6dbca2aea9919b, type: 3}
+    output: {fileID: 687070486373504761, guid: f7b8297491cd2d544a8e19933f01a245, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+  bgMusic:
+  - source: {fileID: 0}
+    name: The Sailors Waltz
+    clip: {fileID: 8300000, guid: d6cee51b7ce14a0448bcbe42c949a896, type: 3}
+    output: {fileID: -7904147577626607297, guid: f7b8297491cd2d544a8e19933f01a245,
+      type: 2}
+    volume: 1
+    pitch: 1
+    loop: 1
+  musicMute: 0
+  sfxMute: 0

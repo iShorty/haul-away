@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scenes/Alpha Level/NavMesh-Boat NavMesh.asset.meta
+guid: a9c2d3a46e4ddb1438bb533ce282b8d0
+NativeFormatImporter:
+=======
+guid: 4dbb79508e891994daa1a7b8eb3c9329
+folderAsset: yes
+DefaultImporter:
+>>>>>>> main:Assets/Resources/ScriptableObject/PickableDatas/Fuel.meta
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

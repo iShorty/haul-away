@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85e40d44de3cd47409d36bbbe46ba6d6, type: 3}
+  m_Name: Player3
+  m_EditorClassIdentifier: 
+  <VerticalAxis>k__BackingField: Player3_Vertical
+  <HorizontalAxis>k__BackingField: Player3_Horizontal
+  <SprintAxis>k__BackingField: Shift
+  <UseAxis>k__BackingField: Player3_Use
+  <LeaveAxis>k__BackingField: Player3_Leave
+  <TossAxis>k__BackingField: Player3_Toss
+  <ToggleLeftAxis>k__BackingField: Player3_ToggleLeft
+  <ToggleRightAxis>k__BackingField: Player3_ToggleRight
+  <UseDebugAxis>k__BackingField: 0
+  <DebugVerticalAxis>k__BackingField: Debug_Player2_Vertical
+  <DebugHorizontalAxis>k__BackingField: Debug_Player2_Horizontal
+  <DebugSprintAxis>k__BackingField: Debug_Player2_Shift
+  <DebugUseAxis>k__BackingField: Debug_Player2_Use
+  <DebugLeaveAxis>k__BackingField: Debug_Player2_Leave
+  <DebugTossAxis>k__BackingField: Debug_Player2_Toss
+  <DebugToggleLeftAxis>k__BackingField: Debug_Player2_ToggleLeft
+  <DebugToggleRightAxis>k__BackingField: Debug_Player2_ToggleRight

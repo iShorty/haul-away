@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ec63dea73deaa4488386276236909c, type: 3}
+  m_Name: TemplateDeliverNumberOfPreferredCargo
+  m_EditorClassIdentifier: 
+  LevelSelectTextFormat: Deliver {0} number of preferred cargo
+  InGameTextFormat: Deliver {1}/{0} preferred cargo
+  SubscriberPrefab: {fileID: 2573370974116210770, guid: 2fec1bd0404b0454d863a802c0c93749,
+    type: 3}
+  ScoreToAchieve: 10

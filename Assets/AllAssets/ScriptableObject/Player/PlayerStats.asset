@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d6495e2817ca14182466e989d569c0, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  <MaxLandSpeed>k__BackingField: 3
+  <MaxLandAcceleration>k__BackingField: 10
+  <MaxWaterSpeed>k__BackingField: 2
+  <MaxWaterAcceleration>k__BackingField: 3
+  <MaxAirSpeed>k__BackingField: 0
+  <MaxAirAcceleration>k__BackingField: 0
+  <JumpHeight>k__BackingField: 0
+  _minimumSlopeAngle: 25
+  <MinimumSlopeDot>k__BackingField: 0.90630776
+  <GroundLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 768
+  <SnapRayDistance>k__BackingField: 1
+  _snapSpeedThreshold: 100
+  <SnapSpeedSqrThreshold>k__BackingField: 10000
+  <RotationSpeed>k__BackingField: 7.5
+  <StunDuration>k__BackingField: 2
+  <DropItemLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 11009
+  _minDetectAngle: 60
+  <MinDetectDot>k__BackingField: 0.49999997
+  <TossForce>k__BackingField: 500
+  <PlayerColliderSize>k__BackingField: {x: 1, y: 1.5, z: 1}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02837bd2086f05a4795310e4bb252e96, type: 3}
+  m_Name: AudioPlayerType_PoolerInfo
+  m_EditorClassIdentifier: 
+  _this: {fileID: 11400000}
+  _triggerOnValidate: 0
+  PooledObjectInfos:
+  - {fileID: 11400000, guid: bdb2b390d2302a148a437ea99bd43515, type: 2}
+  - {fileID: 11400000, guid: cb3546f164a099848aa206b6952f5d82, type: 2}
+  - {fileID: 11400000, guid: acb6beb1d03cf154c9626e4d2c02b99f, type: 2}
+  - {fileID: 11400000, guid: 34f5cc53b49b0a74baf5f5624dd16713, type: 2}
+  Path: AudioPlayers

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fff149f0b0fa5647a83f1ae3a712445, type: 3}
+  m_Name: Tutorial 3
+  m_EditorClassIdentifier: 
+  SceneName: Level 3 - Ame Retreat
+  LevelName: Ame Retreat
+  LevelScreenShot: {fileID: 21300000, guid: 6100aa15b765a5d42a4f325b8ed9d4b9, type: 3}
+  StarUnlock: 4
+  BGM: 2
+  LevelDuration: 480
+  ObjectiveConditionInfos:
+  - {fileID: 11400000, guid: 4307a4345af69b54b90dabca1ccd635e, type: 2}
+  - {fileID: 11400000, guid: 728f5b397c376604ab215cb8a9779dca, type: 2}
+  - {fileID: 11400000, guid: 57a671837cadc754cb468aa3ed27bbfe, type: 2}

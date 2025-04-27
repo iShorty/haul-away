@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 036b022105937d240953cf8f8dca7491, type: 3}
+  m_Name: BaseCargoPoolerInfo
+  m_EditorClassIdentifier: 
+  _this: {fileID: 11400000}
+  _triggerOnValidate: 0
+  PooledObjectInfos:
+  - {fileID: 11400000, guid: 29e58d5e062e7b54889fb940d3c14d39, type: 2}
+  - {fileID: 11400000, guid: 1609adc0ec1d4cf46b27ce5d6011b50b, type: 2}
+  - {fileID: 11400000, guid: b9a82e844048f9840bbce1ccc8ee8f0e, type: 2}
+  - {fileID: 11400000, guid: aa0193312f471d44596014fee679201c, type: 2}

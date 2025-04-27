@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273751e995d19e94682731c3abefd76e, type: 3}
+  m_Name: FloatingInfo_EnemyShip
+  m_EditorClassIdentifier: 
+  DepthBeforeSubmerged: 10
+  DisplacementAmount: 30
+  VelocityDrag: 10
+  AngularVelocityDrag: 5
+  BuoyancyDampening: 1
+  DragDampening: 0.5

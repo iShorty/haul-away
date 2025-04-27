@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47f5c0f89eb5c84ba3517c5c5696c89, type: 3}
+  m_Name: DeviceSpriteInfo
+  m_EditorClassIdentifier: 
+  Controller: {fileID: -7449891481183584303, guid: 91f1d0417687fb343bf1539a651025b8,
+    type: 3}
+  Keyboard: {fileID: 21300000, guid: 917ac9d25f83c304e891a5ca8204aeec, type: 3}
+  Tick: {fileID: 21300000, guid: 917ac9d25f83c304e891a5ca8204aeec, type: 3}
+  Disconnected: {fileID: 0}

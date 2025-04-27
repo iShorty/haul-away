@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad7e1aaf9f3e61247b1b65370208edd8, type: 3}
+  m_Name: LevelSelectUIIndicator
+  m_EditorClassIdentifier: 
+  IndicatorSprite: {fileID: -6695950386315148514, guid: 2f5fa116af3eb5346849046f52162358,
+    type: 3}
+  ImageDimension: {x: 400, y: 500}
+  Prefab: {fileID: 6549207204930703087, guid: 0347d18602f18f446bc0973b2a64eeb9, type: 3}
