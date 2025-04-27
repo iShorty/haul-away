@@ -6,4 +6,4 @@ For more information about this project, please visit: https://enriquecmarcelo.g
 ## Contact
 Enrique Carlos Marcelo
 https://github.com/iShorty
-https://www.linkedin.com/in/enriquecarlosmarcelo/
+www.linkedin.com/in/enrique-marcelo
